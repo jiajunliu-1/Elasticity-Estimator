@@ -25,7 +25,7 @@ This project estimates the **price elasticity of demand** using historical price
 
 ## 🔧 Features
 
-- 🧮 Log-log linear regression model for elasticity estimation
+- 🧮 log linear regression model for elasticity estimation
 - 📈 Demand vs. Price and Revenue vs. Price visualizations
 - ✅ Elastic vs. Inelastic zone detection
 - 📊 Jupyter notebook walkthrough
